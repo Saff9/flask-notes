@@ -18,6 +18,12 @@ aliases:
 
 # Welcome to the Flask Teaching Course 🌶️
 
+<p align="center">
+  <a href="https://razorpay.me/@CodeChap?amount=kXxURMaXFk%2Bmrv%2B9uGrYpg%3D%3D" target="_blank">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-☕-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+  </a>
+</p>
+
 > [!success] You're in the right place.
 > Whether you've never written a single line of Python for the web, or you've poked at Flask and want to actually *understand* it — this course was written for you. We will take it slow, we will explain every line, and you will build real things.
 
